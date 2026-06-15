@@ -4,7 +4,7 @@
       <h2>👋 Hello there, I'm Aditya Mittal!</h2>
       <p><i>Aspiring Software Engineer & Bioengineering Student @ IIT Mandi 🎓</i></p>
       <p>
-        <a href="mailto:aadimittal87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aadimittal87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
         <a href="https://www.linkedin.com/in/aditya-mittal-979494265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       </p>
       <br>
@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ---
@@ -70,7 +69,7 @@
   
   <br><br><br>
 
-  <a href="mailto:aadimittal87@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aadimittal87@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/aditya-mittal-979494265/">
