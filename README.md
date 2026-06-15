@@ -1,14 +1,22 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" height="250" style="object-fit: cover; border-radius: 12px;"/>
-
-<br><br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=const+developer+%3D+new+Engineer('Aditya');;developer.major+%3D+'Bioengineering+%40+IIT+Mandi';;developer.focus+%3D+['Machine+Learning',+'Real-Time+Systems'];;await+developer.build();" alt="Typing SVG" />
-</a>
-
-</div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="middle">
+      <h2>👋 Hello there, I'm Aditya Mittal!</h2>
+      <p><i>Aspiring Software Engineer & Bioengineering Student @ IIT Mandi 🎓</i></p>
+      <p>
+        <a href="mailto:aadimittal87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://www.linkedin.com/in/aditya-mittal-979494265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      </p>
+      <br>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3B82F6&lines=const+developer+%3D+new+Engineer('Aditya');;developer.major+%3D+'Bioengineering';;developer.focus+%3D+['AI',+'System+Design'];;await+developer.build();" alt="Typing SVG" />
+      </a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
