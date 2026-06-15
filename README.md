@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Software Engineer** bridging the gap between high-performance web systems and intelligent algorithms. Currently pursuing my **B.Tech in Bioengineering with a Minor in Computer Science at IIT Mandi**, I specialize in building scalable backends, real-time web applications, and deploying machine learning pipelines.
+I'm a **Aspiring Software Engineer** bridging the gap between high-performance web systems and intelligent algorithms. Currently pursuing my **B.Tech in Bioengineering with a Minor in Computer Science at IIT Mandi**, I specialize in building scalable backends, real-time web applications, and deploying machine learning pipelines.
 
 - 🔭 I’m currently building **Full-Stack ML Architectures** and **Real-Time Systems**.
 - 🌱 I’m currently mastering **System Design** and **Advanced Backend Patterns**.
