@@ -3,8 +3,6 @@
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aadimittal87@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-mittal-979494265/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
 ### Glad to see you here! 
 
 I am an aspiring **Software Engineer** and a **Bioengineering Student at IIT Mandi**, with a mission to bridge the gap between high-performance systems and intelligent machine learning algorithms. 🚀
@@ -16,6 +14,8 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 Feel free to connect with me for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
 ---
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### 💬 Talking about Personal Stuff:
 
@@ -82,7 +82,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 <br>
 
 <div align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=transparent" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
 <div align="center">
