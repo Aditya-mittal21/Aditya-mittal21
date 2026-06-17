@@ -7,7 +7,7 @@
 
 I am an aspiring **Software Engineer** and a **Bioengineering Student at IIT Mandi**, with a mission to bridge the gap between high-performance systems and intelligent machine learning algorithms. 🚀
 
-I have a deep passion for problem-solving and pioneering first-principle thinking. I thrive on the challenge of architecting scalable backends and creating real-time applications. With a strong foundation in **Python, JavaScript, C++, and React**, I love building full-stack products from scratch that can make a positive impact.
+I have a deep passion for problem-solving and pioneering first-principle thinking. I thrive on the challenge of architecting scalable backends and creating real-time applications. I love building full-stack products from scratch that can make a positive impact.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not writing code, you'll find me exploring the intersection of biology and advanced computing.
 
