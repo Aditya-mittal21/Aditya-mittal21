@@ -26,7 +26,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 ### ⚡ Engineering Highlights
 
-#### 🧬 [Melanoma Tumor Prediction API](https://github.com/Aditya-mittal21/MelanomaTumorPrediction)
+#### 🧬 [Melanoma Tumor Prediction Model](https://github.com/Aditya-mittal21/MelanomaTumorPrediction)
 > **FastAPI, Python, XGBoost, Scikit-learn**  
 > Architected a RESTful Machine Learning backend. Engineered 14 clinical interaction features and trained a Stacking Ensemble (RMSE: 3.60) to provide real-time tumor predictions for healthcare applications.
 
