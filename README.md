@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 
-I am an aspiring **Software Engineer** and a **Bioengineering Student at IIT Mandi**, with a mission to bridge the gap between high-performance systems and intelligent machine learning algorithms. 🚀
+I am an aspiring **Software Engineer** and a **Bioengineering Student at IIT Mandi with Computer Science Minor**, with a mission to bridge the gap between high-performance systems and intelligent machine learning algorithms. 🚀
 
 I have a deep passion for problem-solving and pioneering first-principle thinking. I thrive on the challenge of architecting scalable backends and creating real-time applications. I love building full-stack products from scratch that can make a positive impact.
 
@@ -30,7 +30,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 > **FastAPI, Python, XGBoost, Scikit-learn**  
 > Architected a RESTful Machine Learning backend. Engineered 14 clinical interaction features and trained a Stacking Ensemble (RMSE: 3.60) to provide real-time tumor predictions for healthcare applications.
 
-#### 🤖 [CampaignX: Autonomous AI Agent](https://github.com/Aditya-mittal21/CampaignX)
+#### 🤖 [CampaignX: Autonomous AI Agent](https://github.com/Aditya-mittal21/CampaignAgenticAI)
 > **LangGraph, Gemini, React, FastAPI**  
 > Built an autonomous, 5-agent AI system for digital marketing orchestration featuring Human-in-the-Loop workflows, API rate-limit guards, and a self-optimizing feedback loop for personalized content generation.
 
