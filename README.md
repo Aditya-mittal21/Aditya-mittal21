@@ -15,7 +15,6 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 ---
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### 💬 Talking about Personal Stuff:
 
@@ -24,21 +23,6 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 - 💡 &nbsp; Fun fact: I combine domain expertise in biology with hardcore software engineering to solve complex data problems.
 - 📫 &nbsp; Reach me out: [aadimittal87@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aadimittal87@gmail.com).
 
-### ⚡ Engineering Highlights
-
-#### 🧬 [Melanoma Tumor Prediction Model](https://github.com/Aditya-mittal21/MelanomaTumorPrediction)
-> **FastAPI, Python, XGBoost, Scikit-learn**  
-> Architected a RESTful Machine Learning backend. Engineered 14 clinical interaction features and trained a Stacking Ensemble (RMSE: 3.60) to provide real-time tumor predictions for healthcare applications.
-
-#### 🤖 [CampaignX: Autonomous AI Agent](https://github.com/Aditya-mittal21/CampaignAgenticAI)
-> **LangGraph, Gemini, React, FastAPI**  
-> Built an autonomous, 5-agent AI system for digital marketing orchestration featuring Human-in-the-Loop workflows, API rate-limit guards, and a self-optimizing feedback loop for personalized content generation.
-
-#### 🗺️ [MANAV: 3D Campus Navigation System](https://github.com/Aditya-mittal21/Manav)
-> **React.js, Three.js, Dijkstra's Algorithm**  
-> Interactive 3D campus navigation platform for IIT Mandi featuring real-time 3D location discovery and mathematically guaranteed shortest-path routing over weighted graphs.
-
----
 
 ### 💻 Languages and Tools:
 
