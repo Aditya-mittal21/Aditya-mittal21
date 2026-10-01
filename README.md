@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 
-I am an aspiring **Software Engineer** and a **Bioengineering Student at IIT Mandi with Computer Science Minor**, with a mission to bridge the gap between high-performance systems and intelligent machine learning algorithms. 🚀
+I am a **Bioengineering Student at IIT Mandi with Computer Science Minor**, with a mission to bridge the gap between high-performance systems and intelligent machine learning algorithms. 🚀
 
 I have a deep passion for problem-solving and pioneering first-principle thinking. I thrive on the challenge of architecting scalable backends and creating real-time applications. I love building full-stack products from scratch that can make a positive impact.
 
@@ -20,7 +20,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 ### 💬 Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently building Full-Stack ML Architectures and Real-Time Systems.
-- 🚀 &nbsp; I’m currently exploring Advanced Backend Patterns, System Design, and LLMs.
+- 🚀 &nbsp; I’m currently exploring Financial Projects, Quantitative Finance, Advanced Backend Patterns, System Design, and LLMs.
 - 💡 &nbsp; Fun fact: I combine domain expertise in biology with hardcore software engineering to solve complex data problems.
 - 📫 &nbsp; Reach me out: [aadimittal87@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aadimittal87@gmail.com).
 
